@@ -27,11 +27,12 @@ You must add your own serial to the Platform Info section of the config.plist
 - Airdrop
 - Continuity cam
 
-# What doesn't
+# Not working
 
 - Thunderbolt
 - Built-in webcam
 - Ethernet needs reconnecting to obtain DHCP lease
 - Touchscreen/Card Reader not used so disabled in BIOS
+- File Vault or Secure Boot is not configured
 
 # BIOS setup to add
