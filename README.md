@@ -18,7 +18,7 @@ You must add your own serial to the Platform Info section of the config.plist
 - Wifi - Native Apple BCM card
 - Bluetooth
 - Synaptics trackpad, up to 5 finger gestures
-- PS2 keyboard, remappings through karabiner
+- PS2 keyboard
 - Battery management
 - USB type C data and video inc. dock
 - Sleep
