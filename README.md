@@ -21,6 +21,7 @@ You must add your own serial to the Platform Info section of the config.plist
 - PS2 keyboard
 - Battery management
 - USB type C data and video inc. dock
+- Power Management
 - Sleep
 - iService
 - Airdrop
