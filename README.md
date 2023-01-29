@@ -1,7 +1,13 @@
 # OC-ZBook14uG5-Ventura
 Opencore 0.87 files for HP Zbook G5 MacOS 13 Ventura
 
-Add your own serials
+You must add your own serial to the Platform Info section of the config.plist
+
+# Spec
+- Intel i5-8350u
+- 16Gb RAM (2x 8Gb)
+
+
 
 # Working
 
