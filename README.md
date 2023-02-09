@@ -36,3 +36,21 @@ You must add your own serial to the Platform Info section of the config.plist
 - File Vault or Secure Boot is not configured
 
 # BIOS setup to add
+
+## Disable
+- Fast Boot
+- Secure Boot 
+- VT-d (can be enabled if you set DisableIoMapper to YES)
+- Compatibility Support Module (CSM) (Must be off in most cases, GPU errors/stalls like gIO are common when this option is enabled)
+- Thunderbolt(For initial install, as Thunderbolt can cause issues if not setup correctly)
+- Intel SGX
+- Intel Platform Trust
+
+
+## Enable
+- VT-x
+- Hyper-Threading
+- Thunderbolt mode
+- DVMT Pre-Allocated(iGPU Memory): 64MB or higher
+- SATA Mode: AHCI
+
