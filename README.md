@@ -50,7 +50,6 @@ You must add your own serial to the Platform Info section of the config.plist
 ## Enable
 - VT-x
 - Hyper-Threading
-- Thunderbolt mode
 - DVMT Pre-Allocated(iGPU Memory): 64MB or higher
 - SATA Mode: AHCI
 
